@@ -1,31 +1,6 @@
 {
-  "heroGallery": [
-    {
-      "url": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-showcase-commercial-custom-1770166952182.png",
-      "caption": "Commercial Project",
-      "location": "San Jose",
-      "projectType": "service"
-    },
-    {
-      "url": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-showcase-residential-custom-1770166953039.png",
-      "caption": "Residential Project",
-      "location": "San Francisco",
-      "projectType": "service"
-    },
-    {
-      "url": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-showcase-emergency-custom-1770166965532.png",
-      "caption": "Emergency Response",
-      "location": "San Francisco",
-      "projectType": "service"
-    },
-    {
-      "url": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-showcase-team-custom-1770166970233.png",
-      "caption": "Our Expert Team",
-      "location": "Santa Clara",
-      "projectType": "service"
-    }
-  ],
+  "heroGallery": [],
   "defaultServiceImage": "/images/placeholders/service-default.jpg",
   "defaultAreaImage": "/images/placeholders/area-default.jpg",
-  "_generated": "2026-02-04T01:03:13.075Z"
+  "_generated": "2026-02-04T01:03:58.529Z"
 }

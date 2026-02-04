@@ -1,13 +1,13 @@
 {
   "name": "Premier Remediation",
   "short_name": "Premier Reme",
-  "description": "Premier Remediation is a leading commercial-first restoration company specializing in water, mold, and fire damage remediation across the Bay Area. We understand the critical need for operational cont",
+  "description": "Welcome to Premier Remediation",
   "start_url": "/mobile/home",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#022654",
-  "theme_color": "#022654",
+  "background_color": "#0b3040",
+  "theme_color": "#0b3040",
   "categories": [
     "business",
     "productivity"
@@ -16,13 +16,13 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-assets/e3dc26e4-1fa4-4657-b3ab-f5362fb4a3f0/logo-1770166523973.png",
+      "src": "/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-assets/e3dc26e4-1fa4-4657-b3ab-f5362fb4a3f0/logo-1770166523973.png",
+      "src": "/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
