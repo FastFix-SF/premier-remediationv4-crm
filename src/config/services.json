@@ -1,56 +1,632 @@
 [
   {
-    "id": "residential-roofing",
-    "slug": "residential-roofing",
-    "name": "Residential Roofing",
-    "shortDescription": "Premium metal roofing solutions for homes",
-    "icon": "Home",
-    "heroImage": "/lovable-uploads/2ec5247c-14cb-4a9b-9fe1-fd72913ad3e7.png",
-    "heroTitle": "Residential Metal Roofing",
-    "heroHighlight": "Bay Area Experts",
-    "description": "Transform your home with premium metal roofing. Fire-resistant, energy-efficient, and built to last 40-70+ years. Perfect for Bay Area homes.",
+    "id": "asbestos-lead-abatement",
+    "slug": "asbestos-lead-abatement",
+    "name": "Asbestos & Lead Abatement",
+    "shortDescription": "Licensed hazardous material removal following EPA and Cal/OSHA regulations for safe property remediation.",
+    "description": "Licensed hazardous material removal following EPA and Cal/OSHA regulations for safe property remediation.",
+    "icon": "AlertTriangle",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-service-asbestos--lead-abatement-1770166907187.png",
+    "heroTitle": "Asbestos & Lead Abatement",
+    "heroHighlight": "",
+    "heroSubheadline": "Licensed hazardous material removal following EPA and Cal/OSHA regulations for safe property remediation.",
+    "introText": "Licensed hazardous material removal following EPA and Cal/OSHA regulations for safe property remediation.",
     "benefits": [
-      {"icon": "Shield", "title": "Fire Resistance", "description": "Class A fire rating for wildfire protection"},
-      {"icon": "Award", "title": "Energy Efficient", "description": "Reduces cooling costs by up to 25%"},
-      {"icon": "Clock", "title": "Long Lasting", "description": "40-70+ year lifespan with minimal maintenance"},
-      {"icon": "CheckCircle", "title": "Weather Resistant", "description": "Handles wind, hail, and seismic activity"}
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured asbestos & lead abatement professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
     ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your asbestos & lead abatement needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the asbestos & lead abatement work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
     "faqs": [
-      {"question": "How much does a residential metal roof cost?", "answer": "Residential metal roofing costs typically range from $8-$16 per square foot installed, depending on the material type, roof complexity, and local factors."},
-      {"question": "Do metal roofs increase home value?", "answer": "Yes, metal roofs can increase home value by 1-6% and offer up to 85% return on investment."},
-      {"question": "How long do residential metal roofs last?", "answer": "Quality metal roofs last 40-70+ years with minimal maintenance, compared to 15-20 years for asphalt shingles."},
-      {"question": "Are metal roofs noisy during rain?", "answer": "Modern metal roofs with proper insulation and underlayment are no noisier than other roofing materials."},
-      {"question": "Can metal roofs withstand Bay Area weather?", "answer": "Absolutely. Metal roofs excel in Bay Area conditions - fire-resistant, earthquake-safe, and handle coastal salt air."}
+      {
+        "question": "How much does asbestos & lead abatement cost?",
+        "answer": "Asbestos & Lead Abatement costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does asbestos & lead abatement typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency asbestos & lead abatement services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your asbestos & lead abatement technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in asbestos & lead abatement."
+      }
     ],
-    "seoTitle": "Residential Metal Roofing Installation Bay Area",
-    "seoDescription": "Expert residential metal roof installation in the Bay Area. Standing seam, R-panel options. 25-year warranty, fire-resistant.",
-    "seoKeywords": ["residential metal roofing", "home metal roof installation", "Bay Area residential roofing"],
-    "isFeatured": true
+    "seoTitle": "Asbestos & Lead Abatement | Premier Remediation | Professional services",
+    "seoDescription": "Licensed hazardous material removal following EPA and Cal/OSHA regulations for safe property remediation.",
+    "seoKeywords": [
+      "asbestos & lead abatement",
+      "asbestos & lead abatement services",
+      "professional asbestos & lead abatement",
+      "asbestos & lead abatement near me",
+      "asbestos & lead abatement experts"
+    ],
+    "isFeatured": false,
+    "priceRange": "",
+    "sortOrder": 0
   },
   {
-    "id": "commercial-roofing",
-    "slug": "commercial-roofing",
-    "name": "Commercial & Industrial",
-    "shortDescription": "Industrial-grade roofing for businesses and warehouses",
-    "icon": "Building",
-    "heroImage": "/lovable-uploads/commercial-roofing.jpg",
-    "heroTitle": "Commercial Metal Roofing",
-    "heroHighlight": "Industrial Solutions",
-    "description": "Durable, cost-effective metal roofing systems for commercial and industrial buildings. Energy-efficient solutions that reduce operating costs.",
+    "id": "clearance-verification",
+    "slug": "clearance-verification",
+    "name": "Clearance & Verification Support",
+    "shortDescription": "Third-party testing coordination and documentation for regulatory compliance and project sign-off.",
+    "description": "Third-party testing coordination and documentation for regulatory compliance and project sign-off.",
+    "icon": "CheckCircle",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-service-clearance--verification-support-1770166909115.png",
+    "heroTitle": "Clearance & Verification Support",
+    "heroHighlight": "",
+    "heroSubheadline": "Third-party testing coordination and documentation for regulatory compliance and project sign-off.",
+    "introText": "Third-party testing coordination and documentation for regulatory compliance and project sign-off.",
     "benefits": [
-      {"icon": "DollarSign", "title": "Cost Effective", "description": "Lower lifetime costs than traditional roofing"},
-      {"icon": "Zap", "title": "Energy Savings", "description": "Reflective coatings reduce cooling costs"},
-      {"icon": "Shield", "title": "Durable", "description": "Withstands heavy foot traffic and equipment"},
-      {"icon": "Clock", "title": "Quick Installation", "description": "Minimize business disruption"}
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured clearance & verification support professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
     ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your clearance & verification support needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the clearance & verification support work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
     "faqs": [
-      {"question": "What commercial roofing options do you offer?", "answer": "We offer standing seam, R-panel, corrugated, and flat commercial roofing systems."},
-      {"question": "How long does commercial installation take?", "answer": "Most commercial projects take 1-3 weeks, scheduled to minimize business disruption."},
-      {"question": "Do you offer maintenance contracts?", "answer": "Yes, we offer annual maintenance programs to extend roof life."}
+      {
+        "question": "How much does clearance & verification support cost?",
+        "answer": "Clearance & Verification Support costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does clearance & verification support typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency clearance & verification support services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your clearance & verification support technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in clearance & verification support."
+      }
     ],
-    "seoTitle": "Commercial Metal Roofing Bay Area | Industrial Roofing",
-    "seoDescription": "Professional commercial and industrial metal roofing services in the Bay Area.",
-    "seoKeywords": ["commercial metal roofing", "industrial roofing", "warehouse roofing"],
-    "isFeatured": true
+    "seoTitle": "Clearance & Verification Support | Premier Remediation | Professional services",
+    "seoDescription": "Third-party testing coordination and documentation for regulatory compliance and project sign-off.",
+    "seoKeywords": [
+      "clearance & verification support",
+      "clearance & verification support services",
+      "professional clearance & verification support",
+      "clearance & verification support near me",
+      "clearance & verification support experts"
+    ],
+    "isFeatured": false,
+    "priceRange": "",
+    "sortOrder": 1
+  },
+  {
+    "id": "commercial-remediation",
+    "slug": "commercial-remediation",
+    "name": "Commercial Property Remediation",
+    "shortDescription": "Large-scale remediation services for offices, retail, industrial facilities, and multi-tenant buildings.",
+    "description": "Large-scale remediation services for offices, retail, industrial facilities, and multi-tenant buildings.",
+    "icon": "Building",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-service-commercial-property-remediation-1770166906125.png",
+    "heroTitle": "Commercial Property Remediation",
+    "heroHighlight": "",
+    "heroSubheadline": "Large-scale remediation services for offices, retail, industrial facilities, and multi-tenant buildings.",
+    "introText": "Large-scale remediation services for offices, retail, industrial facilities, and multi-tenant buildings.",
+    "benefits": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured commercial property remediation professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
+    ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your commercial property remediation needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the commercial property remediation work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
+    "faqs": [
+      {
+        "question": "How much does commercial property remediation cost?",
+        "answer": "Commercial Property Remediation costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does commercial property remediation typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency commercial property remediation services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your commercial property remediation technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in commercial property remediation."
+      }
+    ],
+    "seoTitle": "Commercial Property Remediation | Premier Remediation | Professional services",
+    "seoDescription": "Large-scale remediation services for offices, retail, industrial facilities, and multi-tenant buildings.",
+    "seoKeywords": [
+      "commercial property remediation",
+      "commercial property remediation services",
+      "professional commercial property remediation",
+      "commercial property remediation near me",
+      "commercial property remediation experts"
+    ],
+    "isFeatured": false,
+    "priceRange": "",
+    "sortOrder": 2
+  },
+  {
+    "id": "fire-smoke-damage",
+    "slug": "fire-smoke-damage",
+    "name": "Fire & Smoke Damage Cleanup",
+    "shortDescription": "Complete fire damage restoration including smoke odor removal, soot cleaning, and structural rehabilitation.",
+    "description": "Complete fire damage restoration including smoke odor removal, soot cleaning, and structural rehabilitation.",
+    "icon": "Flame",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-service-fire--smoke-damage-cleanup-1770166926738.png",
+    "heroTitle": "Fire & Smoke Damage Cleanup",
+    "heroHighlight": "",
+    "heroSubheadline": "Complete fire damage restoration including smoke odor removal, soot cleaning, and structural rehabilitation.",
+    "introText": "Complete fire damage restoration including smoke odor removal, soot cleaning, and structural rehabilitation.",
+    "benefits": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured fire & smoke damage cleanup professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
+    ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your fire & smoke damage cleanup needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the fire & smoke damage cleanup work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
+    "faqs": [
+      {
+        "question": "How much does fire & smoke damage cleanup cost?",
+        "answer": "Fire & Smoke Damage Cleanup costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does fire & smoke damage cleanup typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency fire & smoke damage cleanup services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your fire & smoke damage cleanup technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in fire & smoke damage cleanup."
+      }
+    ],
+    "seoTitle": "Fire & Smoke Damage Cleanup | Premier Remediation | Professional services",
+    "seoDescription": "Complete fire damage restoration including smoke odor removal, soot cleaning, and structural rehabilitation.",
+    "seoKeywords": [
+      "fire & smoke damage cleanup",
+      "fire & smoke damage cleanup services",
+      "professional fire & smoke damage cleanup",
+      "fire & smoke damage cleanup near me",
+      "fire & smoke damage cleanup experts"
+    ],
+    "isFeatured": true,
+    "priceRange": "",
+    "sortOrder": 3
+  },
+  {
+    "id": "mold-remediation",
+    "slug": "mold-remediation",
+    "name": "Mold Remediation",
+    "shortDescription": "Professional mold removal and prevention using containment protocols and HEPA filtration systems.",
+    "description": "Professional mold removal and prevention using containment protocols and HEPA filtration systems.",
+    "icon": "Shield",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-service-mold-remediation-1770166923770.png",
+    "heroTitle": "Mold Remediation",
+    "heroHighlight": "",
+    "heroSubheadline": "Professional mold removal and prevention using containment protocols and HEPA filtration systems.",
+    "introText": "Professional mold removal and prevention using containment protocols and HEPA filtration systems.",
+    "benefits": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured mold remediation professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
+    ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your mold remediation needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the mold remediation work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
+    "faqs": [
+      {
+        "question": "How much does mold remediation cost?",
+        "answer": "Mold Remediation costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does mold remediation typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency mold remediation services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your mold remediation technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in mold remediation."
+      }
+    ],
+    "seoTitle": "Mold Remediation | Premier Remediation | Professional services",
+    "seoDescription": "Professional mold removal and prevention using containment protocols and HEPA filtration systems.",
+    "seoKeywords": [
+      "mold remediation",
+      "mold remediation services",
+      "professional mold remediation",
+      "mold remediation near me",
+      "mold remediation experts"
+    ],
+    "isFeatured": true,
+    "priceRange": "",
+    "sortOrder": 4
+  },
+  {
+    "id": "multifamily-remediation",
+    "slug": "multifamily-remediation",
+    "name": "Multifamily Property Remediation",
+    "shortDescription": "Specialized remediation for apartment complexes and HOAs with minimal tenant disruption.",
+    "description": "Specialized remediation for apartment complexes and HOAs with minimal tenant disruption.",
+    "icon": "Home",
+    "heroImage": "/images/placeholders/service-default.jpg",
+    "heroTitle": "Multifamily Property Remediation",
+    "heroHighlight": "",
+    "heroSubheadline": "Specialized remediation for apartment complexes and HOAs with minimal tenant disruption.",
+    "introText": "Specialized remediation for apartment complexes and HOAs with minimal tenant disruption.",
+    "benefits": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured multifamily property remediation professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
+    ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your multifamily property remediation needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the multifamily property remediation work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
+    "faqs": [
+      {
+        "question": "How much does multifamily property remediation cost?",
+        "answer": "Multifamily Property Remediation costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does multifamily property remediation typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency multifamily property remediation services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your multifamily property remediation technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in multifamily property remediation."
+      }
+    ],
+    "seoTitle": "Multifamily Property Remediation | Premier Remediation | Professional services",
+    "seoDescription": "Specialized remediation for apartment complexes and HOAs with minimal tenant disruption.",
+    "seoKeywords": [
+      "multifamily property remediation",
+      "multifamily property remediation services",
+      "professional multifamily property remediation",
+      "multifamily property remediation near me",
+      "multifamily property remediation experts"
+    ],
+    "isFeatured": false,
+    "priceRange": "",
+    "sortOrder": 5
+  },
+  {
+    "id": "water-damage-mitigation",
+    "slug": "water-damage-mitigation",
+    "name": "Water Damage Mitigation",
+    "shortDescription": "Rapid response water extraction and structural drying to prevent secondary damage and restore your property.",
+    "description": "Rapid response water extraction and structural drying to prevent secondary damage and restore your property.",
+    "icon": "Droplets",
+    "heroImage": "/images/placeholders/service-default.jpg",
+    "heroTitle": "Water Damage Mitigation",
+    "heroHighlight": "",
+    "heroSubheadline": "Rapid response water extraction and structural drying to prevent secondary damage and restore your property.",
+    "introText": "Rapid response water extraction and structural drying to prevent secondary damage and restore your property.",
+    "benefits": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured water damage mitigation professionals."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast Response",
+        "description": "Quick response times with same-day service available."
+      },
+      {
+        "icon": "Award",
+        "title": "Quality Guaranteed",
+        "description": "All work backed by our satisfaction guarantee."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      }
+    ],
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Contact Us",
+        "description": "Call or fill out our online form to schedule your consultation."
+      },
+      {
+        "step": 2,
+        "title": "Free Assessment",
+        "description": "Our experts will assess your water damage mitigation needs and provide a detailed estimate."
+      },
+      {
+        "step": 3,
+        "title": "Professional Service",
+        "description": "Our skilled technicians complete the water damage mitigation work to the highest standards."
+      },
+      {
+        "step": 4,
+        "title": "Quality Assurance",
+        "description": "Final inspection to ensure your complete satisfaction with the results."
+      }
+    ],
+    "ctaText": "Get Free Estimate",
+    "ctaSubtext": "No obligation • Same-day response",
+    "trustSection": null,
+    "faqs": [
+      {
+        "question": "How much does water damage mitigation cost?",
+        "answer": "Water Damage Mitigation costs vary based on the scope and complexity of the project. Contact us for a free, no-obligation estimate tailored to your specific needs."
+      },
+      {
+        "question": "How long does water damage mitigation typically take?",
+        "answer": "The timeline depends on the project size and requirements. Our team will provide a clear timeline during your consultation and keep you updated throughout the process."
+      },
+      {
+        "question": "Do you offer emergency water damage mitigation services?",
+        "answer": "Yes, we understand that some situations require immediate attention. Contact us for emergency service availability in your area."
+      },
+      {
+        "question": "Are your water damage mitigation technicians certified?",
+        "answer": "Absolutely. Our team consists of fully licensed, insured, and certified professionals with extensive training and experience in water damage mitigation."
+      }
+    ],
+    "seoTitle": "Water Damage Mitigation | Premier Remediation | Professional services",
+    "seoDescription": "Rapid response water extraction and structural drying to prevent secondary damage and restore your property.",
+    "seoKeywords": [
+      "water damage mitigation",
+      "water damage mitigation services",
+      "professional water damage mitigation",
+      "water damage mitigation near me",
+      "water damage mitigation experts"
+    ],
+    "isFeatured": true,
+    "priceRange": "",
+    "sortOrder": 6
   }
 ]

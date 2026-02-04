@@ -1,30 +1,597 @@
 [
   {
-    "slug": "san-francisco",
-    "name": "San Francisco",
-    "fullName": "San Francisco, California",
-    "description": "Premier metal roofing services in the heart of San Francisco, serving residential and commercial properties with expert craftsmanship and premium materials.",
-    "population": "875,000+",
-    "heroImage": "/lovable-uploads/0ff36cf7-372c-449f-9bca-52afe3c60788.png",
-    "neighborhoods": ["Mission District", "SOMA", "Pacific Heights", "Richmond", "Sunset District", "Castro", "Haight-Ashbury"],
-    "services": ["Standing Seam Metal Roofing", "R-Panel Installation", "Roof Repair & Maintenance", "Commercial Roofing", "Emergency Roof Services"],
+    "slug": "berkeley-ca",
+    "name": "Berkeley",
+    "fullName": "Berkeley, CA",
+    "description": "Professional services in Berkeley, CA. Premier Remediation serves Berkeley and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "/images/placeholders/area-default.jpg",
+    "heroHeadline": "Premier Remediation in Berkeley",
+    "heroSubheadline": "Professional services for Berkeley residents and businesses",
+    "introText": "Premier Remediation proudly serves Berkeley, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local Berkeley Experts",
+        "description": "We know Berkeley and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to Berkeley means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in Berkeley is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in Berkeley, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with Berkeley homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North Berkeley",
+      "South Berkeley",
+      "East Berkeley",
+      "West Berkeley",
+      "Downtown Berkeley"
+    ],
+    "neighborhoods": [
+      "North Berkeley",
+      "South Berkeley",
+      "East Berkeley",
+      "West Berkeley",
+      "Downtown Berkeley",
+      "Berkeley Heights",
+      "Berkeley Park",
+      "Berkeley Village"
+    ],
+    "services": [],
+    "isPrimary": true,
+    "zipCodes": [],
+    "ctaText": "Get Your Free Berkeley Estimate",
+    "ctaSubtext": "Local service for Berkeley properties",
+    "seoTitle": "Premier Remediation in Berkeley, CA",
+    "seoDescription": "Professional services in Berkeley, CA. Premier Remediation serves Berkeley and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services Berkeley",
+      "Berkeley services",
+      "services near me Berkeley",
+      "best services Berkeley",
+      "Berkeley CA services"
+    ],
     "testimonial": {
-      "name": "Sarah Chen",
-      "text": "Outstanding work on our Victorian home. The metal roof looks amazing and the team was professional throughout.",
+      "name": "Berkeley Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in Berkeley!",
       "rating": 5,
-      "project": "Standing Seam Installation"
+      "project": "services Project"
     },
     "faqs": [
-      {"question": "Do you provide metal roofing services throughout San Francisco?", "answer": "Yes, we provide comprehensive metal roofing services throughout all San Francisco neighborhoods, including the Mission, SOMA, Pacific Heights, and more."},
-      {"question": "What types of metal roofing work best in San Francisco's climate?", "answer": "Standing seam and R-panel systems work excellently in San Francisco due to their durability against fog, salt air, and temperature variations."},
-      {"question": "How long does a metal roof installation take in San Francisco?", "answer": "Most residential installations take 2-5 days, depending on the size and complexity. We work efficiently while maintaining our high quality standards."}
+      {
+        "question": "Do you provide services services in Berkeley?",
+        "answer": "Yes! Premier Remediation proudly serves Berkeley, CA and all surrounding areas. We offer free estimates and consultations for Berkeley residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to Berkeley customers?",
+        "answer": "As a local Berkeley service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to Berkeley and nearby areas."
+      },
+      {
+        "question": "What areas near Berkeley do you also serve?",
+        "answer": "In addition to Berkeley, we serve North Berkeley, South Berkeley, East Berkeley, West Berkeley, Downtown Berkeley, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in Berkeley?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout Berkeley and CA. We carry comprehensive liability insurance for your protection."
+      }
     ],
-    "coordinates": {"lat": 37.7749, "lng": -122.4194}
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
   },
   {
-    "slug": "santa-clara",
+    "slug": "hayward-ca",
+    "name": "Hayward",
+    "fullName": "Hayward, CA",
+    "description": "Professional services in Hayward, CA. Premier Remediation serves Hayward and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-city-hayward-1770166938654.png",
+    "heroHeadline": "Premier Remediation in Hayward",
+    "heroSubheadline": "Professional services for Hayward residents and businesses",
+    "introText": "Premier Remediation proudly serves Hayward, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local Hayward Experts",
+        "description": "We know Hayward and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to Hayward means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in Hayward is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in Hayward, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with Hayward homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North Hayward",
+      "South Hayward",
+      "East Hayward",
+      "West Hayward",
+      "Downtown Hayward"
+    ],
+    "neighborhoods": [
+      "North Hayward",
+      "South Hayward",
+      "East Hayward",
+      "West Hayward",
+      "Downtown Hayward",
+      "Hayward Heights",
+      "Hayward Park",
+      "Hayward Village"
+    ],
+    "services": [],
+    "isPrimary": false,
+    "zipCodes": [],
+    "ctaText": "Get Your Free Hayward Estimate",
+    "ctaSubtext": "Local service for Hayward properties",
+    "seoTitle": "Premier Remediation in Hayward, CA",
+    "seoDescription": "Professional services in Hayward, CA. Premier Remediation serves Hayward and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services Hayward",
+      "Hayward services",
+      "services near me Hayward",
+      "best services Hayward",
+      "Hayward CA services"
+    ],
+    "testimonial": {
+      "name": "Hayward Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in Hayward!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in Hayward?",
+        "answer": "Yes! Premier Remediation proudly serves Hayward, CA and all surrounding areas. We offer free estimates and consultations for Hayward residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to Hayward customers?",
+        "answer": "As a local Hayward service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to Hayward and nearby areas."
+      },
+      {
+        "question": "What areas near Hayward do you also serve?",
+        "answer": "In addition to Hayward, we serve North Hayward, South Hayward, East Hayward, West Hayward, Downtown Hayward, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in Hayward?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout Hayward and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "oakland-ca",
+    "name": "Oakland",
+    "fullName": "Oakland, CA",
+    "description": "Professional services in Oakland, CA. Premier Remediation serves Oakland and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-city-oakland-1770166948427.png",
+    "heroHeadline": "Premier Remediation in Oakland",
+    "heroSubheadline": "Professional services for Oakland residents and businesses",
+    "introText": "Premier Remediation proudly serves Oakland, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local Oakland Experts",
+        "description": "We know Oakland and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to Oakland means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in Oakland is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in Oakland, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with Oakland homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North Oakland",
+      "South Oakland",
+      "East Oakland",
+      "West Oakland",
+      "Downtown Oakland"
+    ],
+    "neighborhoods": [
+      "North Oakland",
+      "South Oakland",
+      "East Oakland",
+      "West Oakland",
+      "Downtown Oakland",
+      "Oakland Heights",
+      "Oakland Park",
+      "Oakland Village"
+    ],
+    "services": [],
+    "isPrimary": false,
+    "zipCodes": [],
+    "ctaText": "Get Your Free Oakland Estimate",
+    "ctaSubtext": "Local service for Oakland properties",
+    "seoTitle": "Premier Remediation in Oakland, CA",
+    "seoDescription": "Professional services in Oakland, CA. Premier Remediation serves Oakland and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services Oakland",
+      "Oakland services",
+      "services near me Oakland",
+      "best services Oakland",
+      "Oakland CA services"
+    ],
+    "testimonial": {
+      "name": "Oakland Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in Oakland!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in Oakland?",
+        "answer": "Yes! Premier Remediation proudly serves Oakland, CA and all surrounding areas. We offer free estimates and consultations for Oakland residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to Oakland customers?",
+        "answer": "As a local Oakland service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to Oakland and nearby areas."
+      },
+      {
+        "question": "What areas near Oakland do you also serve?",
+        "answer": "In addition to Oakland, we serve North Oakland, South Oakland, East Oakland, West Oakland, Downtown Oakland, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in Oakland?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout Oakland and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "san-francisco-ca",
+    "name": "San Francisco",
+    "fullName": "San Francisco, CA",
+    "description": "Professional services in San Francisco, CA. Premier Remediation serves San Francisco and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-city-san-francisco-1770166922185.png",
+    "heroHeadline": "Premier Remediation in San Francisco",
+    "heroSubheadline": "Professional services for San Francisco residents and businesses",
+    "introText": "Premier Remediation proudly serves San Francisco, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local San Francisco Experts",
+        "description": "We know San Francisco and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to San Francisco means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in San Francisco is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in San Francisco, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with San Francisco homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North San Francisco",
+      "South San Francisco",
+      "East San Francisco",
+      "West San Francisco",
+      "Downtown San Francisco"
+    ],
+    "neighborhoods": [
+      "North San Francisco",
+      "South San Francisco",
+      "East San Francisco",
+      "West San Francisco",
+      "Downtown San Francisco",
+      "San Francisco Heights",
+      "San Francisco Park",
+      "San Francisco Village"
+    ],
+    "services": [],
+    "isPrimary": true,
+    "zipCodes": [],
+    "ctaText": "Get Your Free San Francisco Estimate",
+    "ctaSubtext": "Local service for San Francisco properties",
+    "seoTitle": "Premier Remediation in San Francisco, CA",
+    "seoDescription": "Professional services in San Francisco, CA. Premier Remediation serves San Francisco and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services San Francisco",
+      "San Francisco services",
+      "services near me San Francisco",
+      "best services San Francisco",
+      "San Francisco CA services"
+    ],
+    "testimonial": {
+      "name": "San Francisco Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in San Francisco!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in San Francisco?",
+        "answer": "Yes! Premier Remediation proudly serves San Francisco, CA and all surrounding areas. We offer free estimates and consultations for San Francisco residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to San Francisco customers?",
+        "answer": "As a local San Francisco service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to San Francisco and nearby areas."
+      },
+      {
+        "question": "What areas near San Francisco do you also serve?",
+        "answer": "In addition to San Francisco, we serve North San Francisco, South San Francisco, East San Francisco, West San Francisco, Downtown San Francisco, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in San Francisco?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout San Francisco and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "san-jose-ca",
+    "name": "San Jose",
+    "fullName": "San Jose, CA",
+    "description": "Professional services in San Jose, CA. Premier Remediation serves San Jose and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-city-san-jose-1770166935215.png",
+    "heroHeadline": "Premier Remediation in San Jose",
+    "heroSubheadline": "Professional services for San Jose residents and businesses",
+    "introText": "Premier Remediation proudly serves San Jose, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local San Jose Experts",
+        "description": "We know San Jose and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to San Jose means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in San Jose is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in San Jose, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with San Jose homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North San Jose",
+      "South San Jose",
+      "East San Jose",
+      "West San Jose",
+      "Downtown San Jose"
+    ],
+    "neighborhoods": [
+      "North San Jose",
+      "South San Jose",
+      "East San Jose",
+      "West San Jose",
+      "Downtown San Jose",
+      "San Jose Heights",
+      "San Jose Park",
+      "San Jose Village"
+    ],
+    "services": [],
+    "isPrimary": false,
+    "zipCodes": [],
+    "ctaText": "Get Your Free San Jose Estimate",
+    "ctaSubtext": "Local service for San Jose properties",
+    "seoTitle": "Premier Remediation in San Jose, CA",
+    "seoDescription": "Professional services in San Jose, CA. Premier Remediation serves San Jose and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services San Jose",
+      "San Jose services",
+      "services near me San Jose",
+      "best services San Jose",
+      "San Jose CA services"
+    ],
+    "testimonial": {
+      "name": "San Jose Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in San Jose!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in San Jose?",
+        "answer": "Yes! Premier Remediation proudly serves San Jose, CA and all surrounding areas. We offer free estimates and consultations for San Jose residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to San Jose customers?",
+        "answer": "As a local San Jose service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to San Jose and nearby areas."
+      },
+      {
+        "question": "What areas near San Jose do you also serve?",
+        "answer": "In addition to San Jose, we serve North San Jose, South San Jose, East San Jose, West San Jose, Downtown San Jose, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in San Jose?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout San Jose and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "san-mateo-ca",
+    "name": "San Mateo",
+    "fullName": "San Mateo, CA",
+    "description": "Professional services in San Mateo, CA. Premier Remediation serves San Mateo and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "/images/placeholders/area-default.jpg",
+    "heroHeadline": "Premier Remediation in San Mateo",
+    "heroSubheadline": "Professional services for San Mateo residents and businesses",
+    "introText": "Premier Remediation proudly serves San Mateo, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local San Mateo Experts",
+        "description": "We know San Mateo and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to San Mateo means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in San Mateo is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in San Mateo, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with San Mateo homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North San Mateo",
+      "South San Mateo",
+      "East San Mateo",
+      "West San Mateo",
+      "Downtown San Mateo"
+    ],
+    "neighborhoods": [
+      "North San Mateo",
+      "South San Mateo",
+      "East San Mateo",
+      "West San Mateo",
+      "Downtown San Mateo",
+      "San Mateo Heights",
+      "San Mateo Park",
+      "San Mateo Village"
+    ],
+    "services": [],
+    "isPrimary": false,
+    "zipCodes": [],
+    "ctaText": "Get Your Free San Mateo Estimate",
+    "ctaSubtext": "Local service for San Mateo properties",
+    "seoTitle": "Premier Remediation in San Mateo, CA",
+    "seoDescription": "Professional services in San Mateo, CA. Premier Remediation serves San Mateo and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services San Mateo",
+      "San Mateo services",
+      "services near me San Mateo",
+      "best services San Mateo",
+      "San Mateo CA services"
+    ],
+    "testimonial": {
+      "name": "San Mateo Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in San Mateo!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in San Mateo?",
+        "answer": "Yes! Premier Remediation proudly serves San Mateo, CA and all surrounding areas. We offer free estimates and consultations for San Mateo residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to San Mateo customers?",
+        "answer": "As a local San Mateo service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to San Mateo and nearby areas."
+      },
+      {
+        "question": "What areas near San Mateo do you also serve?",
+        "answer": "In addition to San Mateo, we serve North San Mateo, South San Mateo, East San Mateo, West San Mateo, Downtown San Mateo, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in San Mateo?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout San Mateo and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "santa-clara-ca",
     "name": "Santa Clara",
-    "fullName": "Santa Clara, California",
-    "description": "Expert metal roofing solutions for Santa Clara residents and businesses."
+    "fullName": "Santa Clara, CA",
+    "description": "Professional services in Santa Clara, CA. Premier Remediation serves Santa Clara and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "population": "",
+    "heroImage": "https://ivainhvckowigupafbae.supabase.co/storage/v1/object/public/business-media/hero-city-santa-clara-1770166936535.png",
+    "heroHeadline": "Premier Remediation in Santa Clara",
+    "heroSubheadline": "Professional services for Santa Clara residents and businesses",
+    "introText": "Premier Remediation proudly serves Santa Clara, CA and the surrounding communities. Our team of experienced professionals provides top-quality services with a commitment to customer satisfaction and excellence.",
+    "whyChooseUs": [
+      {
+        "title": "Local Santa Clara Experts",
+        "description": "We know Santa Clara and understand the unique needs of local properties. Our team has years of experience serving this community."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "Being local to Santa Clara means we can respond quickly to your needs. We offer same-day estimates and prompt service."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project in Santa Clara is backed by our satisfaction guarantee. We stand behind our work with comprehensive warranties."
+      }
+    ],
+    "localExpertise": "With deep roots in Santa Clara, Premier Remediation understands the local building codes, climate considerations, and community standards. We've built lasting relationships with Santa Clara homeowners and businesses through quality work and reliable service.",
+    "neighborhoodHighlights": [
+      "North Santa Clara",
+      "South Santa Clara",
+      "East Santa Clara",
+      "West Santa Clara",
+      "Downtown Santa Clara"
+    ],
+    "neighborhoods": [
+      "North Santa Clara",
+      "South Santa Clara",
+      "East Santa Clara",
+      "West Santa Clara",
+      "Downtown Santa Clara",
+      "Santa Clara Heights",
+      "Santa Clara Park",
+      "Santa Clara Village"
+    ],
+    "services": [],
+    "isPrimary": false,
+    "zipCodes": [],
+    "ctaText": "Get Your Free Santa Clara Estimate",
+    "ctaSubtext": "Local service for Santa Clara properties",
+    "seoTitle": "Premier Remediation in Santa Clara, CA",
+    "seoDescription": "Professional services in Santa Clara, CA. Premier Remediation serves Santa Clara and surrounding areas with quality workmanship, free estimates, and excellent customer service.",
+    "seoKeywords": [
+      "services Santa Clara",
+      "Santa Clara services",
+      "services near me Santa Clara",
+      "best services Santa Clara",
+      "Santa Clara CA services"
+    ],
+    "testimonial": {
+      "name": "Santa Clara Customer",
+      "text": "Premier Remediation did an excellent job on our project. Professional team, quality work, and great communication throughout. Highly recommend to anyone in Santa Clara!",
+      "rating": 5,
+      "project": "services Project"
+    },
+    "faqs": [
+      {
+        "question": "Do you provide services services in Santa Clara?",
+        "answer": "Yes! Premier Remediation proudly serves Santa Clara, CA and all surrounding areas. We offer free estimates and consultations for Santa Clara residents and businesses."
+      },
+      {
+        "question": "How quickly can you respond to Santa Clara customers?",
+        "answer": "As a local Santa Clara service provider, we typically respond within 24 hours. For emergencies, we offer same-day service to Santa Clara and nearby areas."
+      },
+      {
+        "question": "What areas near Santa Clara do you also serve?",
+        "answer": "In addition to Santa Clara, we serve North Santa Clara, South Santa Clara, East Santa Clara, West Santa Clara, Downtown Santa Clara, and other nearby communities. Contact us to confirm service in your area."
+      },
+      {
+        "question": "Are you licensed and insured to work in Santa Clara?",
+        "answer": "Absolutely. Premier Remediation is fully licensed and insured to provide services throughout Santa Clara and CA. We carry comprehensive liability insurance for your protection."
+      }
+    ],
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
   }
 ]

@@ -1,32 +1,269 @@
 {
   "mainMenu": [
-    { "label": "Home", "href": "/", "visible": true },
+    {
+      "label": "Home",
+      "href": "/",
+      "visible": true
+    },
     {
       "label": "Services",
       "href": "/services",
       "visible": true,
-      "children": []
+      "children": [
+        {
+          "label": "Asbestos & Lead Abatement",
+          "href": "/services/asbestos-lead-abatement",
+          "description": ""
+        },
+        {
+          "label": "Clearance & Verification Support",
+          "href": "/services/clearance-verification",
+          "description": ""
+        },
+        {
+          "label": "Commercial Property Remediation",
+          "href": "/services/commercial-remediation",
+          "description": ""
+        },
+        {
+          "label": "Fire & Smoke Damage Cleanup",
+          "href": "/services/fire-smoke-damage",
+          "description": ""
+        },
+        {
+          "label": "Mold Remediation",
+          "href": "/services/mold-remediation",
+          "description": ""
+        },
+        {
+          "label": "Multifamily Property Remediation",
+          "href": "/services/multifamily-remediation",
+          "description": ""
+        },
+        {
+          "label": "Water Damage Mitigation",
+          "href": "/services/water-damage-mitigation",
+          "description": ""
+        }
+      ]
     },
     {
       "label": "Service Areas",
       "href": "/service-areas",
       "visible": true,
-      "children": []
+      "children": [
+        {
+          "label": "Berkeley",
+          "href": "/service-areas/berkeley-ca",
+          "description": "Berkeley, CA"
+        },
+        {
+          "label": "Hayward",
+          "href": "/service-areas/hayward-ca",
+          "description": "Hayward, CA"
+        },
+        {
+          "label": "Oakland",
+          "href": "/service-areas/oakland-ca",
+          "description": "Oakland, CA"
+        },
+        {
+          "label": "San Francisco",
+          "href": "/service-areas/san-francisco-ca",
+          "description": "San Francisco, CA"
+        },
+        {
+          "label": "San Jose",
+          "href": "/service-areas/san-jose-ca",
+          "description": "San Jose, CA"
+        },
+        {
+          "label": "San Mateo",
+          "href": "/service-areas/san-mateo-ca",
+          "description": "San Mateo, CA"
+        },
+        {
+          "label": "Santa Clara",
+          "href": "/service-areas/santa-clara-ca",
+          "description": "Santa Clara, CA"
+        }
+      ]
     },
-    { "label": "About", "href": "/about", "visible": true },
-    { "label": "Contact", "href": "/contact", "visible": true }
+    {
+      "label": "About",
+      "href": "/about",
+      "visible": true
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "visible": true
+    }
   ],
   "footerMenu": {
     "company": [
-      { "label": "About Us", "href": "/about" },
-      { "label": "Contact", "href": "/contact" },
-      { "label": "Reviews", "href": "/reviews" }
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      },
+      {
+        "label": "Reviews",
+        "href": "/reviews"
+      }
     ],
-    "services": [],
-    "areas": []
+    "services": [
+      {
+        "label": "Asbestos & Lead Abatement",
+        "href": "/services/asbestos-lead-abatement",
+        "description": ""
+      },
+      {
+        "label": "Clearance & Verification Support",
+        "href": "/services/clearance-verification",
+        "description": ""
+      },
+      {
+        "label": "Commercial Property Remediation",
+        "href": "/services/commercial-remediation",
+        "description": ""
+      },
+      {
+        "label": "Fire & Smoke Damage Cleanup",
+        "href": "/services/fire-smoke-damage",
+        "description": ""
+      },
+      {
+        "label": "Mold Remediation",
+        "href": "/services/mold-remediation",
+        "description": ""
+      },
+      {
+        "label": "Multifamily Property Remediation",
+        "href": "/services/multifamily-remediation",
+        "description": ""
+      }
+    ],
+    "areas": [
+      {
+        "label": "Berkeley",
+        "href": "/service-areas/berkeley-ca",
+        "description": "Berkeley, CA"
+      },
+      {
+        "label": "Hayward",
+        "href": "/service-areas/hayward-ca",
+        "description": "Hayward, CA"
+      },
+      {
+        "label": "Oakland",
+        "href": "/service-areas/oakland-ca",
+        "description": "Oakland, CA"
+      },
+      {
+        "label": "San Francisco",
+        "href": "/service-areas/san-francisco-ca",
+        "description": "San Francisco, CA"
+      },
+      {
+        "label": "San Jose",
+        "href": "/service-areas/san-jose-ca",
+        "description": "San Jose, CA"
+      },
+      {
+        "label": "San Mateo",
+        "href": "/service-areas/san-mateo-ca",
+        "description": "San Mateo, CA"
+      }
+    ]
   },
-  "servicesList": [],
-  "areasList": [],
-  "_generated": "2024-01-01T00:00:00.000Z",
-  "_businessName": "Business Name"
+  "servicesList": [
+    {
+      "slug": "asbestos-lead-abatement",
+      "name": "Asbestos & Lead Abatement",
+      "isFeatured": false
+    },
+    {
+      "slug": "clearance-verification",
+      "name": "Clearance & Verification Support",
+      "isFeatured": false
+    },
+    {
+      "slug": "commercial-remediation",
+      "name": "Commercial Property Remediation",
+      "isFeatured": false
+    },
+    {
+      "slug": "fire-smoke-damage",
+      "name": "Fire & Smoke Damage Cleanup",
+      "isFeatured": true
+    },
+    {
+      "slug": "mold-remediation",
+      "name": "Mold Remediation",
+      "isFeatured": true
+    },
+    {
+      "slug": "multifamily-remediation",
+      "name": "Multifamily Property Remediation",
+      "isFeatured": false
+    },
+    {
+      "slug": "water-damage-mitigation",
+      "name": "Water Damage Mitigation",
+      "isFeatured": true
+    }
+  ],
+  "areasList": [
+    {
+      "slug": "berkeley-ca",
+      "city": "Berkeley",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "hayward-ca",
+      "city": "Hayward",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "oakland-ca",
+      "city": "Oakland",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "san-francisco-ca",
+      "city": "San Francisco",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "san-jose-ca",
+      "city": "San Jose",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "san-mateo-ca",
+      "city": "San Mateo",
+      "state": "CA",
+      "isPrimary": false
+    },
+    {
+      "slug": "santa-clara-ca",
+      "city": "Santa Clara",
+      "state": "CA",
+      "isPrimary": false
+    }
+  ],
+  "features": {
+    "storeEnabled": false
+  },
+  "_generated": "2026-02-04T01:03:34.542Z",
+  "_businessName": "Premier Remediation"
 }
